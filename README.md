@@ -142,7 +142,8 @@ DEC  ████████████████████████ �
 
 > *Dashboard with dark neon theme, showing full-year data across all categories and payment modes.*
 
-![Personal Expense Dashboard](<img width="1862" height="666" alt="image" src="https://github.com/user-attachments/assets/f8a57eae-32d1-4d09-9dc0-b9630c4fd9c5" />
+<img width="1862" height="666" alt="image" src="https://github.com/user-attachments/assets/e1178349-76d5-4b88-bcd3-14cea5c6047d" />
+
 )
 
 ---
@@ -166,12 +167,6 @@ Contributions, issues and feature requests are welcome!
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
