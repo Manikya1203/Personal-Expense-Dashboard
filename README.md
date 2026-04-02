@@ -1,5 +1,12 @@
 # 💸 Personal Expense Dashboard
 
+## 📸 Screenshots
+
+> *Dashboard with dark neon theme, showing full-year data across all categories and payment modes.*
+
+)
+
+<img width="1862" height="666" alt="image" src="https://github.com/user-attachments/assets/a413144f-33d9-4a61-b31d-21e50a12d9ae" />
 
 <br/>
 
@@ -135,16 +142,6 @@ DEC  ████████████████████████ �
    - Filter by **Category** (Bills / Entertainment / Food / Rent / Shopping / Travel)
 
 4. All **charts and KPI cards update automatically** based on your filter selections.
-
----
-
-## 📸 Screenshots
-
-> *Dashboard with dark neon theme, showing full-year data across all categories and payment modes.*
-
-<img width="1862" height="666" alt="image" src="https://github.com/user-attachments/assets/e1178349-76d5-4b88-bcd3-14cea5c6047d" />
-
-)
 
 ---
 
