@@ -1,9 +1,5 @@
 # 💸 Personal Expense Dashboard
 
-<div align="center">
-
-![Dashboard Preview](<img width="1862" height="666" alt="image" src="https://github.com/user-attachments/assets/1c607f09-f9f5-429f-8fc6-3756fa9046a7" />
-)
 
 <br/>
 
@@ -146,7 +142,8 @@ DEC  ████████████████████████ �
 
 > *Dashboard with dark neon theme, showing full-year data across all categories and payment modes.*
 
-![Personal Expense Dashboard](dashboard-preview.png)
+![Personal Expense Dashboard](<img width="1862" height="666" alt="image" src="https://github.com/user-attachments/assets/f8a57eae-32d1-4d09-9dc0-b9630c4fd9c5" />
+)
 
 ---
 
